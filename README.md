@@ -37,7 +37,7 @@ huashan
 
 # DCLCN
 
-![image.png](Read%20Me%20914d5639974d425388a226b8a631ae29/image.png)
+![Read%20Me%20914d5639974d425388a226b8a631ae29/image.png](https://github.com/BioCenter-SHU/WUCF/blob/main/wucf.jpg)
 
 ### 训练过程：
 
